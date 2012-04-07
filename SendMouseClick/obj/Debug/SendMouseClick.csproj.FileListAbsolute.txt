@@ -1,0 +1,10 @@
+e:\SRC\SendMouseClick\SendMouseClick\bin\Debug\SendMouseClick.exe
+e:\SRC\SendMouseClick\SendMouseClick\bin\Debug\SendMouseClick.pdb
+e:\SRC\SendMouseClick\SendMouseClick\obj\Debug\ResolveAssemblyReference.cache
+e:\SRC\SendMouseClick\SendMouseClick\obj\Debug\SendMouseClick.exe
+e:\SRC\SendMouseClick\SendMouseClick\obj\Debug\SendMouseClick.pdb
+C:\src\SendMouseClick\SendMouseClick\bin\Debug\SendMouseClick.exe
+C:\src\SendMouseClick\SendMouseClick\bin\Debug\SendMouseClick.pdb
+C:\src\SendMouseClick\SendMouseClick\obj\Debug\ResolveAssemblyReference.cache
+C:\src\SendMouseClick\SendMouseClick\obj\Debug\SendMouseClick.exe
+C:\src\SendMouseClick\SendMouseClick\obj\Debug\SendMouseClick.pdb
